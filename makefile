@@ -1,0 +1,3 @@
+LDFLAGS = -lxcb
+
+all: asskey
